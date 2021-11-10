@@ -1,2 +1,2 @@
 # NIELIT_HARIDWAR_INTERNSHIP_TRAINING
-Made a ML project on the topic of WINE QUALITY TEST
+Builta ML project on the topic"WINE QUALITY TEST" with my fellow mates Navin Sharma and Pravesh Kumar.
