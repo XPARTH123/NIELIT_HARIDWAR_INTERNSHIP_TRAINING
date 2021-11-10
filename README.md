@@ -1,0 +1,2 @@
+# NIELIT_HARIDWAR_INTERNSHIP_TRAINING
+Made a ML project on the topic of WINE QUALITY TEST
